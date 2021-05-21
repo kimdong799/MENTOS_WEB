@@ -38,5 +38,6 @@
   2. 적립된 POINT를 이용해 기프티콘 교환 기능
   3. 각 회원의 POINT는 마이페이지에서 확인 가능
 ![image](https://user-images.githubusercontent.com/72305202/119093498-bf9cc280-ba4a-11eb-883c-46af4fe4ac77.png)
+
 ![image](https://user-images.githubusercontent.com/72305202/119093559-d17e6580-ba4a-11eb-92a1-ca2e63282fe1.png)
 
